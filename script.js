@@ -1,0 +1,1 @@
+let activeInformationAfter = document.querySelector(".activeInformationAfter")
